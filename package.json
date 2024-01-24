@@ -1,0 +1,24 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@ton/core": "^0.53.0",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.9.0",
+    "axios": "^0.25.0",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.0",
+    "tonfura-sdk": "^1.1.2",
+    "tonweb": "^0.0.62",
+    "tonweb-mnemonic": "^1.0.1"
+  }
+}
