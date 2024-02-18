@@ -15,8 +15,8 @@ dependencies:
     specifier: ^3.2.0
     version: 3.2.0
   '@ton/ton':
-    specifier: ^13.9.0
-    version: 13.9.0(@ton/core@0.53.0)(@ton/crypto@3.2.0)
+    specifier: ^13.10.0
+    version: 13.10.0(@ton/core@0.53.0)(@ton/crypto@3.2.0)
   axios:
     specifier: ^0.25.0
     version: 0.25.0
@@ -3035,8 +3035,8 @@ packages:
       tweetnacl: 1.0.3
     dev: false
 
-  /@ton/ton@13.9.0(@ton/core@0.53.0)(@ton/crypto@3.2.0):
-    resolution: {integrity: sha512-bvDn9vv0rNsN/OH84Q4DKH3N21AD0MvTxXmnS0wPEOoU38F4mltXmA7an2SjaSgd9kAlsOSHa0EirkTie+Zitw==}
+  /@ton/ton@13.10.0(@ton/core@0.53.0)(@ton/crypto@3.2.0):
+    resolution: {integrity: sha512-uf1n8AdchoyJp2V5vIAka4Q6C+Ty6K9etPhNhl2wY31X+WnpupNi7Ep7BpKR5YZuOe/srKw7p1N6VpQm+9zwLQ==}
     peerDependencies:
       '@ton/core': '>=0.53.0'
       '@ton/crypto': '>=3.2.0'
